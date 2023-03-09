@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Karla Adam",
+      "title": "Putin threatened U.K. with missile strike, Boris Johnson says - The Washington Post",
+      "description": "In a BBC documentary, former prime minister Boris Johnson says Russia's Vladimir Putin threatened the U.K. in an offhand way after he was warned not to invade Ukraine.",
+      "url": "https://www.washingtonpost.com/world/2023/01/30/boris-johnson-putin-missile-strike/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-30-2023/t_376ca3d9d7b74a3686f154e0c5cd3478_name_OFLSGZCIASYIELWW5PXTZUCZZQ.jpg&w=1440",
+      "publishedAt": "2023-01-30T12:15:00Z",
+      "content": "Comment on this story\r\nLONDON Former British prime minister Boris Johnson says Russian President Vladimir Putin personally threatened him with a missile attack in the run-up to Russias invasion of Uk… [+4004 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacob Lev, Homero De La Fuente",
+      "title": "Kansas City Chiefs to face Philadelphia Eagles in Super Bowl LVII - CNN",
+      "description": "The Kansas City Chiefs are advancing to Super Bowl LVII following a 23-20 victory over the Cincinnati Bengals in the AFC Championship game on Sunday at Arrowhead Stadium in Kansas City, Missouri.",
+      "url": "https://www.cnn.com/2023/01/29/us/nfl-conference-championships-chiefs-bengals-eagles-49ers/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130094130-chiefs-bengals-012923.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-30T11:47:00Z",
+      "content": "The Kansas City Chiefs are advancing to Super Bowl LVII following a 23-20 victory over the Cincinnati Bengals in the AFC Championship game on Sunday at Arrowhead Stadium in Kansas City, Missouri.\r\nAf… [+3411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WFAA.com"
+      },
+      "author": "Jesse Hawila",
+      "title": "Ice in DFW: Freezing rain, icy roads, timeline, everything to know about this week's winter weather - WFAA.com",
+      "description": "Winter Storm Warning has been issued for all of North Texas",
+      "url": "https://www.wfaa.com/article/weather/dfw-weather-ice-freezing-rain-timeline-forecast-north-texas/287-f548fc76-eefe-4679-863f-c485e0c63ae3",
+      "urlToImage": "https://media.wfaa.com/assets/WFAA/images/e2c26ec0-8918-47ab-b2db-177cf2ff9bd2/e2c26ec0-8918-47ab-b2db-177cf2ff9bd2_1140x641.jpg",
+      "publishedAt": "2023-01-30T11:26:15Z",
+      "content": "DALLAS Icy, not snowy, wintry weather is headed to North Texas over the next several days.\r\nHere's what you need to know to be best prepared:\r\nFast facts:\r\n<ul><li>Freezing drizzle and freezing rain … [+2675 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Toyin Owoseje",
+      "title": "Lisa Loring, original Wednesday Addams actress, dead at 64 - CNN",
+      "description": "Lisa Loring, best known as the first actress to play Wednesday Addams in the original \"The Addams Family\" sitcom, has died at the age of 64.",
+      "url": "https://www.cnn.com/2023/01/30/entertainment/lisa-loring-wednesday-addams-dead-intl-scli/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130090120-02-lisa-loring-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-30T11:05:00Z",
+      "content": "Lisa Loring, best known as the first actress to play Wednesday Addams in the original The Addams Family sitcom, has died at the age of 64.\r\nLorings daughter, Vanessa Foumberg, confirmed in a statemen… [+2213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Jack Newman",
+      "title": "Lisa Marie Presley was 'back on opioids and taking weight loss meds before Golden Globes' - Daily Mail",
+      "description": "The star underwent plastic surgery two months before the Golden Globes and lost up to 50 pounds as part of a strict regimen, insiders told TMZ.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-11691767/Lisa-Marie-Presley-opioids-taking-weight-loss-meds-Golden-Globes.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/01/30/10/67117299-0-image-a-10_1675076334816.jpg",
+      "publishedAt": "2023-01-30T11:01:32Z",
+      "content": "Lisa Marie Presley was desperately trying to lose weight for the Elvis awards season and was even taking opioids, family sources have claimed.\r\nThe star underwent plastic surgery two months before th… [+14606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Iran says drone attack on military site in Isfahan was thwarted - BBC",
+      "description": "The site suffered some damage, with unconfirmed US media reports saying Israel carried it out.",
+      "url": "https://www.bbc.com/news/world-middle-east-64445306",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4407/production/_128451471_f3f04722-9af5-458b-96f1-c1342ef07119.png",
+      "publishedAt": "2023-01-30T10:45:03Z",
+      "content": "The Iranian defence ministry says it has foiled a drone attack on a military facility in the city of Isfahan. \r\nThe ministry said the site suffered only minor damage, though this has not been indepen… [+2513 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sophia Saifi",
+      "title": "Blast in mosque in Pakistan kills at least 25 people, with scores injured - CNN",
+      "description": "A blast inside a mosque in Pakistan's northwestern city of Peshawar on Monday has left at least 25 people dead and 120 more injured, according to according to Shafiullah Khan, the deputy commissioner in Peshawar.",
+      "url": "https://www.cnn.com/2023/01/30/asia/peshawar-pakistan-mosque-blast-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130094830-01-peshawar-mosque-013023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-30T10:27:00Z",
+      "content": "A powerful blast inside a mosque in Pakistans northwestern city of Peshawar has left at least 25 people dead and 120 more injured, according to Peshawar deputy commissioner Shafiullah Khan.\r\nThe mosq… [+221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Japan Times"
+      },
+      "author": "Kathleen Benoza",
+      "title": "Two missing skiers confirmed dead after Nagano avalanche - The Japan Times",
+      "description": "Authorities said they were unable to immediately confirm the nationalities of the men, but Mountain Gazette reported that one was professional skier Kyle Smaine from California.",
+      "url": "https://www.japantimes.co.jp/news/2023/01/30/national/nagano-avalanche-missing-skiers/",
+      "urlToImage": "https://cdn-japantimes.com/wp-content/uploads/2023/01/np_file_207683-870x489.jpeg",
+      "publishedAt": "2023-01-30T10:19:33Z",
+      "content": "Two men were presumed dead Monday in a backcountry accident near a ski resort in Nagano Prefecture, police said, a day after the pair were caught in an avalanche.\r\nNagano Prefectural Police confirmed… [+618 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Aimee Lewis",
+      "title": "Novak Djokovic says he 'emotionally collapsed' after Australian Open win - CNN",
+      "description": "For almost two decades, we have become accustomed to Novak Djokovic winning grand slams. But seeing the world No. 1 sobbing on the floor as he celebrated his Australian Open victory with his family and team was a first. He would later say he had \"emotionally …",
+      "url": "https://www.cnn.com/2023/01/30/tennis/novak-djokovic-australian-open-win-reaction-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230129071052-03-aus-open-mens-final-2023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-30T09:59:00Z",
+      "content": "For almost two decades, we have become accustomed to Novak Djokovic winning grand slams. But seeing the world No. 1 sobbing on the floor as he celebrated his Australian Open victory with his family a… [+4883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jihye Lee",
+      "title": "Most Adani shares continue bloodbath as Asia's richest man loses $28 billion in a month - CNBC",
+      "description": "Shares of most of Adani Group companies continued to see sharp losses for a third consecutive trading session.",
+      "url": "https://www.cnbc.com/2023/01/30/adani-shares-hindenburg-report.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107185658-1675065697458-gettyimages-1244891771-AFP_32NX36Y.jpeg?v=1675067597&w=1920&h=1080",
+      "publishedAt": "2023-01-30T08:33:17Z",
+      "content": "Gautam Adani, chairperson of Indian conglomerate Adani Group, at the World Congress of Accountants in Mumbai on Nov. 19, 2022. Founder Gautam Adani, the richest man in Asia and once second only to El… [+2458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Elliot Smith",
+      "title": "Renault slashes Nissan stake as the automakers overhaul their decades-long alliance - CNBC",
+      "description": "Renault has trimmed its interest in coalition ally Nissan stake as the automakers overhaul their decades-long union.",
+      "url": "https://www.cnbc.com/2023/01/30/auto-giants-renault-and-nissan-overhaul-their-decades-long-alliance.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107185642-1675061950003-gettyimages-1192715579-AFP_1NK8BB.jpeg?v=1675079227&w=1920&h=1080",
+      "publishedAt": "2023-01-30T06:46:17Z",
+      "content": "Automobile giants Renault and Nissan on Monday agreed to restructure their decades-long alliance, in a move that would see Renault's shareholdings in Nissan reduced from around 43% to 15%.\r\nThe deal,… [+1633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Ben Baby",
+      "title": "Bengals' Joseph Ossai laments penalty that led to Chiefs' win - ESPN",
+      "description": "Bengals defensive end Joseph Ossai lamented his penalty in the closing seconds of Sunday's AFC Championship Game that put the Chiefs in position for Harrison Butker's game-winning field goal.",
+      "url": "https://www.espn.com/nfl/story/_/id/35555795/bengals-joseph-ossai-laments-penalty-led-chiefs-win",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0130%2Fr1124311_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-01-30T06:10:54Z",
+      "content": "KANSAS CITY, Mo. -- Cincinnati Bengals players and coaches gave defensive end Joseph Ossai words of solace and comfort following a penalty that led to the Kansas City Chiefs' game-winning field goal … [+3548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "49ers' emergency quarterback, who's not a QB, could have been forced to play in NFC Championship vs. Eagles - CBS Sports",
+      "description": "The 49ers were close to having to play their fullback at quarterback",
+      "url": "https://www.cbssports.com/nfl/news/49ers-emergency-quarterback-whos-not-a-qb-could-have-been-forced-to-play-in-nfc-championship-vs-eagles/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/29/d4552ac0-5e0e-44f7-b545-1e9180400629/thumbnail/1200x675/71e5e6ea3b0a86b0bf273e56d0efd181/ninersj.jpg",
+      "publishedAt": "2023-01-30T05:00:00Z",
+      "content": "Going into Sunday's NFC Championship game, the 49ers were already down to their third-string quarterback (Brock Purdy), but after an injury to the rookie, San Francisco was just one big hit away from… [+1952 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "China's Baidu to launch ChatGPT-style bot in March - source - Reuters",
+      "description": "Chinese internet search major Baidu Inc <a href=\"https://www.reuters.com/companies/9888.HK\" target=\"_blank\">(9888.HK)</a> is planning to launch an artificial intelligence (AI) chatbot service similar to OpenAI's ChatGPT in March, a person familiar with the ma…",
+      "url": "https://www.reuters.com/technology/chinas-baidu-launch-chatgpt-style-bot-march-source-2023-01-30/",
+      "urlToImage": "https://www.reuters.com/resizer/7XcIeiw305KYQR-yBFMGW5zUyO8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/63ZBO3MYIJLDFBKR3URIVLJH7E.jpg",
+      "publishedAt": "2023-01-30T04:06:00Z",
+      "content": "BEIJING, Jan 30 (Reuters) - Chinese internet search major Baidu Inc (9888.HK) is planning to launch an artificial intelligence (AI) chatbot service similar to OpenAI's ChatGPT in March, a person fami… [+1551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Destiny Jackson",
+      "title": "‘The Last of Us’ Creators On Casting Nick Offerman And Murray Bartlett, And Crafting The Series’ Most Heartfelt Episode: “I Cried So Hard, It Hurt” - Deadline",
+      "description": "SPOILER ALERT: This interview contains details of Season 1, Episode 3 of HBO’s The Last Of Us. After watching Sunday’s stellar and heartbreakingly tender third episode of The L…",
+      "url": "https://deadline.com/2023/01/the-last-us-interview-neil-druckmann-craig-mazin-nick-offerman-murray-bartlett-pedro-pascal-1235242560/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/01/nick-offerman-murray-bartlett.jpg?w=980",
+      "publishedAt": "2023-01-30T03:52:00Z",
+      "content": "SPOILER ALERT: This interview contains details of Season 1, Episode 3 of HBO’s The Last Of Us. \r\nAfter watching Sunday’s stellar and heartbreakingly tender third episode of The Last of Us, it’s not d… [+10615 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Germany warns against arms race as Ukraine pushes for missiles, jets - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ludGVybmF0aW9uYWwvMzgzNTUxMi1nZXJtYW55LXdhcm5zLWFnYWluc3QtYXJtcy1yYWNlLWFzLXVrcmFpbmUtcHVzaGVzLWZvci1taXNzaWxlcy1qZXRzL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ludGVybmF0aW9uYWwvMzgzNTUxMi1nZXJtYW55LXdhcm5zLWFnYWluc3QtYXJtcy1yYWNlLWFzLXVrcmFpbmUtcHVzaGVzLWZvci1taXNzaWxlcy1qZXRzL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-01-30T03:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Commercial Appeal"
+      },
+      "author": ", The Commercial Appeal",
+      "title": "NAACP Memphis wants all involved in Tyre Nichols' death to be terminated and prosecuted - Commercial Appeal",
+      "description": "The NAACP Memphis Branch is calling for law enforcement officers and first responders involved in Tyre Nichols’ death to be terminated and prosecuted.",
+      "url": "https://www.commercialappeal.com/story/news/local/2023/01/30/tyre-nichols-death-naacp-memphis-wants-officers-involved-terminated/69852271007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/29/PMCA/cdd8f293-a1ee-4fef-8ebb-72fe0f7dd86a-_2MG0022.jpg?auto=webp&crop=5242,2949,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2023-01-30T00:11:35Z",
+      "content": "The NAACP Memphis Branch is calling for law enforcement officers and first responders who were involved in the traffic stop that led to Tyre Nichols death to be terminated and prosecuted.\r\nNAACP Memp… [+4644 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Dee-ann Durbin",
+      "title": "Source: Dutch, Japanese join US limits on chip tech to China - The Associated Press",
+      "description": "WASHINGTON (AP) — Japan and the Netherlands have agreed to a deal with the U.S. to restrict China's access to materials used to make advanced computer chips, a person familiar with the agreement told The Associated Press on Sunday.",
+      "url": "https://apnews.com/6801d6c5f65b0bc1df6186e2e89a6f7d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9bd3ca470c62430d99f5b4a82d9f0132/3000.webp",
+      "publishedAt": "2023-01-29T22:39:42Z",
+      "content": "WASHINGTON (AP) Japan and the Netherlands have agreed to a deal with the U.S. to restrict Chinas access to materials used to make advanced computer chips, a person familiar with the agreement told Th… [+2766 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matthew Adler",
+      "title": "New Super Mario Bros. Movie Trailer Showcases Seth Rogen's Donkey Kong - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/new-super-mario-bros-movie-trailer-showcases-seth-rogens-donkey-kong",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/01/29/marioblog-1675028054393.png?width=1280",
+      "publishedAt": "2023-01-29T22:06:25Z",
+      "content": "The latest trailer for The Super Mario Bros. Movie gives us plenty of goodies, including Mario donning his cat suit from Super Mario 3D World, as well as the debut Seth Rogen's Donkey Kong voice.\r\nPr… [+1407 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+      "title": "Phil Spencer says Microsoft will continue to ‘support and grow’ Halo amid 343 layoffs - Engadget",
+      "description": "In a recent interview, Xbox head Phil Spencer tried to assure Halo fans about the future of the franchise, saying Microsoft was committed to growing the series..",
+      "url": "https://www.engadget.com/phil-spencer-says-microsoft-will-continue-to-support-and-grow-halo-amid-343-layoffs-184954755.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-images/2019-05/f6918bc0-7b29-11e9-97b6-2df8ddf3e44f",
+      "publishedAt": "2023-01-29T18:51:54Z",
+      "content": "Xbox head Phil Spencer says Microsoft remains committed to the Halo franchise and developer 343 Industries. In an interview following this weeks Xbox and Bethesda Developer Direct showcase\r\n, Spencer… [+1816 chars]"
+    }
+  ]
+}
