@@ -51,7 +51,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved ![2](https://user-images.githubusercontent.com/109366582/228424557-362f53c4-8b3e-43a7-8e83-a181f873676b.jpg)
+![3](https://user-images.githubusercontent.com/109366582/228424565-05de08c0-01c7-4699-b0f5-058466f967d3.jpg)
+here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
@@ -66,5 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
+![SharedScreenshot](https://user-images.githubusercontent.com/109366582/228424482-ce284fdf-93c8-455e-bd07-2fecb15e75f5.jpg)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
